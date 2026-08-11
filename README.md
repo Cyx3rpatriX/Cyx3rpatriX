@@ -21,12 +21,12 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cyx3rpatriX&show_icons=true&hide_border=true&bg_color=0a0014&title_color=FF2E88&icon_color=00FFF2&text_color=c9d1d9&ring_color=7B2FF7&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=Cyx3rpatriX &hide_border=true&background=0a0014&ring=FF2E88&fire=00FFF2&currStreakLabel=00FFF2&sideLabels=c9d1d9&dates=6e6e8f" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Cyx3rpatriX&hide_border=true&background=0a0014&ring=FF2E88&fire=00FFF2&currStreakLabel=00FFF2&sideLabels=c9d1d9&dates=6e6e8f" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyx3rpatriX &theme=react-dark&bg_color=0a0014&color=00FFF2&line=FF2E88&point=ffffff&area=true&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyx3rpatriX&theme=react-dark&bg_color=0a0014&color=00FFF2&line=FF2E88&point=ffffff&area=true&hide_border=true" width="98%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyx3rpatriX &layout=compact&hide_border=true&bg_color=0a0014&title_color=FF2E88&text_color=c9d1d9&langs_count=8" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Cyx3rpatriX &theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyx3rpatriX&layout=compact&hide_border=true&bg_color=0a0014&title_color=FF2E88&text_color=c9d1d9&langs_count=8" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Cyx3rpatriX&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=8" width="49%"/>
 
 </div>
 
@@ -94,8 +94,8 @@
 
 <div align="center">
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyx3rpatriX &repo=cyx3rkeys&theme=react&bg_color=0a0014&title_color=FF2E88&icon_color=00FFF2&text_color=c9d1d9&hide_border=true" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyx3rpatriX &repo=portfolio&theme=react&bg_color=0a0014&title_color=00FFF2&icon_color=FF2E88&text_color=c9d1d9&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyx3rpatriX&repo=cyx3rkeys&theme=react&bg_color=0a0014&title_color=FF2E88&icon_color=00FFF2&text_color=c9d1d9&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyx3rpatriX&repo=portfolio&theme=react&bg_color=0a0014&title_color=00FFF2&icon_color=FF2E88&text_color=c9d1d9&hide_border=true" /></a>
 
 </div>
 
