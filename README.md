@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:1a0533,100:0a0014&height=180&section=header&text=CYX&fontSize=70&fontColor=FF2E88&fontAlignY=40&desc=AI%20/%20OFFSEC%20/%20OSINT%20/%20FULLSTACK&descAlignY=62&descSize=16&descColor=00FFF2&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/CYX">
+<a href="https://github.com/Cyx3rpatriX">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&pause=1200&color=FF2E88&center=true&vCenter=true&width=650&height=45&lines=%3E+SYSTEM+ONLINE_;%3E+INITIALIZING+DAVID+PATRICK.EXE;%3E+ACCESS+GRANTED+%E2%80%94+ROOT%40CYX" alt="Typing SVG" />
 </a>
 
@@ -20,13 +20,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CYX&show_icons=true&hide_border=true&bg_color=0a0014&title_color=FF2E88&icon_color=00FFF2&text_color=c9d1d9&ring_color=7B2FF7&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=CYX&hide_border=true&background=0a0014&ring=FF2E88&fire=00FFF2&currStreakLabel=00FFF2&sideLabels=c9d1d9&dates=6e6e8f" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Cyx3rpatriX&show_icons=true&hide_border=true&bg_color=0a0014&title_color=FF2E88&icon_color=00FFF2&text_color=c9d1d9&ring_color=7B2FF7&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Cyx3rpatriX &hide_border=true&background=0a0014&ring=FF2E88&fire=00FFF2&currStreakLabel=00FFF2&sideLabels=c9d1d9&dates=6e6e8f" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CYX&theme=react-dark&bg_color=0a0014&color=00FFF2&line=FF2E88&point=ffffff&area=true&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyx3rpatriX &theme=react-dark&bg_color=0a0014&color=00FFF2&line=FF2E88&point=ffffff&area=true&hide_border=true" width="98%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYX&layout=compact&hide_border=true&bg_color=0a0014&title_color=FF2E88&text_color=c9d1d9&langs_count=8" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=CYX&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyx3rpatriX &layout=compact&hide_border=true&bg_color=0a0014&title_color=FF2E88&text_color=c9d1d9&langs_count=8" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Cyx3rpatriX &theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=8" width="49%"/>
 
 </div>
 
@@ -94,8 +94,8 @@
 
 <div align="center">
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CYX&repo=cyx3rkeys&theme=react&bg_color=0a0014&title_color=FF2E88&icon_color=00FFF2&text_color=c9d1d9&hide_border=true" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CYX&repo=portfolio&theme=react&bg_color=0a0014&title_color=00FFF2&icon_color=FF2E88&text_color=c9d1d9&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyx3rpatriX &repo=cyx3rkeys&theme=react&bg_color=0a0014&title_color=FF2E88&icon_color=00FFF2&text_color=c9d1d9&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyx3rpatriX &repo=portfolio&theme=react&bg_color=0a0014&title_color=00FFF2&icon_color=FF2E88&text_color=c9d1d9&hide_border=true" /></a>
 
 </div>
 
@@ -111,7 +111,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=CYX&color=FF2E88&style=for-the-badge&label=CONNECTIONS+ESTABLISHED)
+![Profile Views](https://komarev.com/ghpvc/?username=Cyx3rpatriX&color=FF2E88&style=for-the-badge&label=CONNECTIONS+ESTABLISHED)
 
 </div>
 
