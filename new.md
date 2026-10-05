@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cyx9d-logo.jpg" width="180" alt="CYX_9D Logo">
+<img src="./assets/cyx_9d.jpg" width="180" alt="CYX_9D Logo">
 
 # Cyx3rPatriX
 
